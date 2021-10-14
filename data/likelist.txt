@@ -1,14 +1,49 @@
 # Enter names EXACTLY as spelt in waifu-bot one per line
 # Use these hashmarks on new lines for comments
 # The bot ignores empty lines
-Yuusuke Nisaka
+Mai Sakurajima
+Megumin
+Hange Zoë
+Chika Fujiwara
+Bongo Boi
+Violet Evergarden
+Aqua
+Satoru Gojou
+Kaguya Shinomiya
+Kirby
+Rin Tohsaka
+Neferpitou
+Chizuru Ichinose
+Shoto Todoroki
 Gawr Gura
-Saika Totsuka
-Welf Crozzo
-Souta Hori
-Chuki
-Shuu Iura
-Nyangoku
-Kouichi Shindou
-Akane Yanagi
-Fischl
+Killua Zoldyck
+Chiaki Nanami
+Kurisu Makise
+Eren Jaeger
+Kanao Tsuyuri
+Itsuki Nakano
+Momo Yaoyorozu
+Shouko Nishimiya
+Osamu Dazai
+Yotsuba Nakano
+Giyuu Tomioka
+Mary Saotome
+Krista Lenz
+Yukino Yukinoshita
+Yuno Gasai
+Makima
+Lucy Heartfilia
+Kyoko Kirigiri
+Kyouko Hori
+Yuuji Itadori
+Roronoa Zoro
+Mitsuha Miyamizu
+Zenitsu Agatsuma
+Ichigo
+Armin Arlert
+Megumi Fushiguro
+Naruto Uzumaki
+Rio Futaba
+Misa Amane
+Dabi
+Nejire Hadou
