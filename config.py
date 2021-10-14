@@ -2,13 +2,13 @@
 
 # Discord IDs
 # Replace values with your own.
-MUDAE_ID = 432610292342587392  # ID of Mudae bot
-CHANNEL_ID = 432610292342587392  # ID of claiming channel
-SERVER_ID = 432610292342587392  # ID of Discord server
-USER_ID = 432610292342587392  # ID of main user
+MUDAE_ID = 891162703840837635  # ID of Mudae bot
+CHANNEL_ID = 898292293507883058  # ID of claiming channel
+SERVER_ID = 891162703840837632  # ID of Discord server
+USER_ID = 442168558898642946  # ID of main user
 
 # Bot token
-BOT_TOKEN = ""
+BOT_TOKEN = "ODk4MjkzNDM4Njc0NTA5ODQ0.YWiG9Q.LpPjnDOhVF7MSPueSX86nMYBSKU"
 
 # Command prefix for Mudae and roll command to use.
 # Default setting below does $m
@@ -57,4 +57,4 @@ LOG_FILE = "./log.txt"
 # On Linux, single forward slashes are okay.
 # Ex. "/usr/bin/geckodriver"
 # Set to None if geckodriver is in the PATH
-WEB_DRIVER_PATH = "/usr/bin/geckodriver"
+WEB_DRIVER_PATH = "C:\\Programs - Portable\\geckodriver-v0.30.0-win64\\geckodriver.exe"
