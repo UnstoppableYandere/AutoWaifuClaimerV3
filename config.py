@@ -2,7 +2,7 @@
 
 # Discord IDs
 # Replace values with your own.
-MUDAE_ID = 891162703840837635  # ID of Mudae bot
+MUDAE_ID = 898293438674509844  # ID of Mudae bot
 CHANNEL_ID = 898292293507883058  # ID of claiming channel
 SERVER_ID = 891162703840837632  # ID of Discord server
 USER_ID = 442168558898642946  # ID of main user
